@@ -12,11 +12,11 @@ class Ideone1
 		int n=sc.nextInt();
 		if(n%2==0)
 		{
-			System.out.println("valid");
+			System.out.println("Even");
 		}
 		else
 		{
-			System.out.println("invalid");
+			System.out.println("Odd");
 		}
 	}
 }
