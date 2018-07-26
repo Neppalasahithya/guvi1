@@ -13,15 +13,15 @@ class Ideone
 	
 		if(n>0)
 		{
-			System.out.print("value is positive");
+			System.out.print("Positive");
 		}
 		else if(n<0)
 		{
-			System.out.println("value is negative");
+			System.out.println("Negative");
 			}
 		else if(n==0)
 		{
-			System.out.println("value is zero");
+			System.out.println("Zero");
 		}
 	}
 }
