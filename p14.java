@@ -13,7 +13,7 @@ class Ideone
         int num1 = s.nextInt();
         System.out.print("");
         int num2 = s.nextInt();
-        for(int i= num1; i<num2; i++){
+        for(int i= num1+1; i<num2; i++){
             if (i%2 != 0){
                System.out.print(i + " ");
             }
