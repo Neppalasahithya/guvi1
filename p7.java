@@ -13,7 +13,7 @@ class Ideone
 		System.out.print("");
 		for(i=1;i<=n;i++)
 		{
-			System.out.println("hello");
+			System.out.println("Hello");
 		}
 	}
 }
